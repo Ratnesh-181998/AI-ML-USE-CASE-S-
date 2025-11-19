@@ -1,3 +1,4 @@
+<img width="1738" height="1310" alt="image (2)" src="https://github.com/user-attachments/assets/add558b0-9f55-4938-b5d4-3e3ad3f74aac" />
 List of Modules:
 
 1	Similar product
